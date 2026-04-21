@@ -23,7 +23,7 @@ For specific parameters ($\sigma=10, \rho=28, \beta=8/3$), the system exhibits c
 ### Visualizing Chaos
 Below is a simulation result showing the evolution of the attractor in phase space:
 
-![Lorenz System Trajectory](Lorez-Equations/SolutionCase4.png)
+![Lorenz System Trajectory](Lorenz-Equations/SolutionCase4.png)
 
 ## Other Included Simulations
 Beyond the Lorenz system, this repository includes:
